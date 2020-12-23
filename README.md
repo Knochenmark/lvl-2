@@ -5,5 +5,5 @@
   <img alt="Level 2" src="./src/assets/logo.svg" width="140" />
 </p>
 <h1 align="center">
-My personal portfolio based on my own [Gatsby Starter Portfolio: Level 2](https://github.com/knochenmark/gatsby-starter-level-2) template.
+  My personal portfolio based on my own [Gatsby Starter Portfolio: Level 2](https://github.com/knochenmark/gatsby-starter-level-2 "Gatsby starter template") template.
 </h1>
