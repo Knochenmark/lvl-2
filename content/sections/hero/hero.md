@@ -1,10 +1,7 @@
 ---
-introduction: "hey it's me"
-tagline: 'Design. Code. Experiment'
-cta_label: 'View Documentation'
-cta_link: 'https://github.com/Knochenmark/gatsby-starter-level-2/blob/master/README.md'
+introduction: 'who am i'
+tagline: 'Software Engineer'
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-sed diam nonumy eirmod tempor invidunt ut labore
-et dolore magna aliquyam erat, sed diam voluptua.
+I'm a software engineer working and living in Berlin.
+Currently developing notary software for the _German Federal Chamber of Notaries_ in Angular & Svelte.

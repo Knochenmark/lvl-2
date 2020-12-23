@@ -1,18 +1,18 @@
 export const indexMenuLinks = [
   {
-    name: 'About',
-    link: '/#about',
-    icon: 'user-tie',
-  },
-  {
     name: 'Projects',
     link: '/#projects',
     icon: 'terminal',
   },
+  // {
+  //   name: 'Blog',
+  //   link: '/#blog',
+  //   icon: 'feather-alt',
+  // },
   {
-    name: 'Blog',
-    link: '/#blog',
-    icon: 'feather-alt',
+    name: 'About',
+    link: '/#about',
+    icon: 'user-tie',
   },
   {
     name: 'Contact',
@@ -27,14 +27,14 @@ export const blogMenuLinks = [
     link: '/',
     icon: 'code',
   },
-  {
-    name: 'Blog',
-    link: '/blog',
-    icon: 'feather-alt',
-  },
-  {
-    name: 'Tags',
-    link: '/tags',
-    icon: 'tags',
-  },
+  // {
+  //   name: 'Blog',
+  //   link: '/blog',
+  //   icon: 'feather-alt',
+  // },
+  // {
+  //   name: 'Tags',
+  //   link: '/tags',
+  //   icon: 'tags',
+  // },
 ];

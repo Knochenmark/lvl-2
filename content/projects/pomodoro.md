@@ -1,10 +1,11 @@
 ---
 featured: true
-date: '2019-12-15'
+date: '2020-12-21'
 title: 'Pomodoro'
-cover_image: './images/ocean.jpg'
+cover_image: './images/pomodoro.jpg'
+repo_link: 'https://github.com/Knochenmark/pomodoro'
 demo_link: 'https://knochenmark.github.io/pomodoro/'
-techs: ['Javascript', 'Html5', 'Css3', 'React']
+techs: ['Typescript', 'React', 'Typestyle']
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+Based on the kitchen clock which is also used for the pomodoro technique to manage time intervals of 25min work and 5min breaks. This Pomodoro offers an extravagant user interface with efficiency in mind.

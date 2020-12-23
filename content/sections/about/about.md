@@ -1,11 +1,11 @@
 ---
-title: 'The Gatsby starter that makes developer dreams come true!'
+title: 'Me in a nutshell'
 about_image: './me.jpg'
-techs: ['Gatsby', 'Javascript', 'React', 'GraphQL', 'Emotion', 'Stylus']
+techs: ['Typescript', 'Angular', 'Svelte', 'Stylus', 'Gatsby', 'React']
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas sit amet arcu tincidunt fermentum. Mauris ac nisl nibh. Etiam nunc eros, blandit vel eros laoreet, accumsan lacinia turpis.
+Hi, I'm Mark! You know what I love most about my portfolio? It's about me. You might think *"Who's this self-absorbed guy?"*. Well, thanks for this question, but I'll answer another question first. Yes, I'm good at what I do and when you love yourself, you can't help but love your craft. I like things functional and minimalistic.
 
-Phasellus ut sagittis eros. Curabitur quis libero consequat, iaculis dolor sollicitudin, ultricies ligula. Donec sodales sed ex a fermentum. Quisque vitae efficitur odio, non aliquam sapien.
+That's me in a nutshell. If you dont like my stuff, build your own playground, but if you enjoyed it and want to know more, just drop me a line.
 
-Proin egestas luctus ornare. Donec maximus est lobortis, pharetra dolor in, convallis lorem. Duis ut erat in lectus faucibus iaculis. In tincidunt laoreet ante, vel pellentesque risus lacinia eu.
+Some technologies that I really enjoy working with recently are:

@@ -1,10 +1,11 @@
 ---
 featured: true
-date: '2019-12-22'
+date: '2020-12-23'
 title: 'Minesweeper'
-cover_image: './images/motherboard.jpg'
+cover_image: './images/minesweeper.jpg'
 repo_link: 'https://github.com/Knochenmark/minesweeper'
+demo_link: 'https://knochenmark.github.io/minesweeper/'
 techs: ['Typescript', 'React']
 ---
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.
+Inspired by the retro minesweeper game this is the result of a cooperation in order to learn and teach ourselfs a bit of React and Typescript.
