@@ -4,7 +4,6 @@ import PropTypes from 'prop-types';
 import React from 'react';
 import Icon from './icon';
 import { mq } from './_shared/media';
-import { StyledIndexNumber } from './_shared/styled-index-number';
 import { flexCenter } from './_shared/styled-mixins';
 
 const StyledNav = styled.nav`
@@ -62,13 +61,10 @@ const StyledNavLink = styled(Link)`
 const NavigationBar = ({ menuLinks }) => {
   return (
     <StyledNav>
-      {menuLinks.map((link, index) => (
+      {menuLinks.map((link) => (
         <StyledNavLink key={link.name} to={link.link} activeClassName="active">
           <Icon icon={link.icon} />
-          <div>
-            <StyledIndexNumber>{`${String(index + 1).padStart(2, '0')}.`}</StyledIndexNumber>
-            {link.name}
-          </div>
+          <div>{link.name}</div>
         </StyledNavLink>
       ))}
     </StyledNav>
